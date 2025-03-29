@@ -34,7 +34,7 @@ apt install python3 git sqlite
 
 ## 2. Clone the Repository
 ```bash
-git clone https://github.com/ezaco-dev/SQLite-Database-Explorer.git
+git clone https://github.com/ezaco-dev/sqlite-explorer
 ```
 ---
 ## 3. Add "databases" Directory

@@ -32,20 +32,20 @@ apt install python3 git sqlite
 
 ---
 
-2. Clone the Repository
+## 2. Clone the Repository
 ```bash
 git clone https://github.com/ezaco-dev/SQLite-Database-Explorer.git
 ```
 
 ---
-3. Install Pip Packages
+## 3. Install Pip Packages
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-4. Run the Server
+## 4. Run the Server
 ```bash
 python3 app.py
 ```
